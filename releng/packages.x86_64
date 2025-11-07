@@ -1,7 +1,21 @@
 base
 linux
 linux-firmware
+syslinux
+reflector
+sudo
+systemd
+mkinitcpio
+mkinitcpio-archiso
+coreutils
+bash
+pacman
 vim
+dhcpcd
 networkmanager
 grub
+openssh
+curl
+iproute2
+hdparm
 
